@@ -196,7 +196,7 @@ This cheatsheet provides a comprehensive list of all Git aliases available in Po
 | `gcp` | `git cherry-pick` | Apply the changes introduced by existing commits |
 | `gcpa` | `git cherry-pick --abort` | Abort a cherry-pick |
 | `gcpc` | `git cherry-pick --continue` | Continue a cherry-pick |
-| `gfg` | `git ls-files | grep` | Find files matching pattern in git repository |
+| `gfg` | `git ls-files \| grep` | Find files matching pattern in git repository |
 | `gignore` | `git update-index --assume-unchanged` | Ignore changes to a file |
 | `gunignore` | `git update-index --no-assume-unchanged` | Unignore changes to a file |
 | `grt` | `Set-Location (git rev-parse --show-toplevel)` | Navigate to the git root directory |
