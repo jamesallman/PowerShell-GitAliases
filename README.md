@@ -61,7 +61,7 @@ Here are some of the most commonly used Git aliases included:
 | grh | git reset |
 | grhh | git reset --hard |
 
-See the script content for a complete list of all available aliases.
+For a complete list of all aliases with descriptions, see the [CHEATSHEET.md](CHEATSHEET.md).
 
 ## Customization
 
